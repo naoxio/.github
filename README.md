@@ -4,7 +4,7 @@ Get working prototypes, see what works.
 - [Ukuvota](https://github.com/naoxio/ukuvota)
 
 # Second Itteration (wip)
-Rework previous applications to make lightweight, efficient tools for any platforms.
+Rework previous applications to make lightweight, efficient, decentralized tools for any platforms.
 Moving from Flutter to Rust.
 
 Not yet ready. Use first itteration apps.
