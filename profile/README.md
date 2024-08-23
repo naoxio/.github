@@ -21,11 +21,7 @@ Collaborative score voting platform.
 ### Coming Code Base changes
 Will be rewriting the Flutter and Astro apps with Rust toolkits.
 Rust toolkits can be a great alternative to Flutter. Allow you to create secure, lightweight and fully cross platform applications.
-- Fast and respnosive web builds using wasm.
-- Native and lightweight builds for desktop and mobile.
+- Inner Breeze will be made from scratch in an appropriate library (yet to be determined) and will allow loading different practices, to becmoe the ultimate meditation and yoga app for all platforms. Progress will be recorded in the [InBreeze](https://github.com/naoxio/inbreeze). The inital [Inner Breeze](https://github.com/naoxio/inner_breeze) repo will therefore stay unaffected from this new version and will continue to serve those who prefer it.
 
-These are the repository changes:
-- The Orginal Flutter [/inner_breeze](https://github.com/naoxio/inner_breeze) will become [/inbreeze](https://github.com/naoxio/inbreeze) 
-- The [/ukuvota-flutter](https://github.com/naoxio/ukuvota-flutter) and [/ukuvota-astro](https://github.com/naoxio/ukuvota-astro) will become [/ukuvota](https://github.com/naoxio/ukuvota)
+- The astro ukuvota version will be revived and slowly integrated with [Tauri](https://tauri.app/) and other rust libraries, so we can have a fast and secure web version, but also be able to create native applications. The Ukuvota flutter version will therefore become deprecated eventually.
 
-All repositories will remain available on GitHub, even after the new Dioxus versions are live.
