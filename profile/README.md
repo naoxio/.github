@@ -4,12 +4,15 @@ Welcome to NaoX! A suite of applications to aid you with your journey!
 
 ## Applications
 ### InBreeze: Inner Breeze for Inner Peace
+
 ![Inner Breeze logo](https://naox.io/inner-breeze-logo.png)
+
 Guided meditation exercies.
 [inbreeze.xyz](https://inbreeze.xyz)
 
 ### Ukuvota
 ![Ukuvota logo)[https://naox.io/ukuvota-logo.png)
+
 Collaborative score voting platform
 [ukuvota.xyz](https://ukuvota.xyz)
 
@@ -20,6 +23,6 @@ Dioxus is a great alterantive to Flutter to create secure, lightweight and fully
 - The main advantage to using Dioxus will be the very fast and respnosive web builds.
 - The main advantage over Astro will be that I can build the apps for all platforms natively.
 
-
+These are the repository changes:
 - The Orginal Flutter [Inner Breeze](https://github.com/naoxio/inner_breeze) will become [InBreeze](https://github.com/naoxio/inbreeze) 
 - [Ukuvota Flutter](https://github.com/naoxio/ukuvota-flutter) and [Ukuvota Astro](https://github.com/naoxio/ukuvota-astro) will become [Ukuvota](https://github.com/naoxio/ukuvota)
