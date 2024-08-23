@@ -27,3 +27,5 @@ Dioxus is a great alterantive to Flutter to create secure, lightweight and fully
 These are the repository changes:
 - The Orginal Flutter [/inner_breeze](https://github.com/naoxio/inner_breeze) will become [/inbreeze](https://github.com/naoxio/inbreeze) 
 - The [/ukuvota-flutter](https://github.com/naoxio/ukuvota-flutter) and [/ukuvota-astro](https://github.com/naoxio/ukuvota-astro) will become [/ukuvota](https://github.com/naoxio/ukuvota)
+
+All repositories will remain available on GitHub, even after the new Dioxus versions are live.
