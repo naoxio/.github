@@ -19,8 +19,8 @@ Collaborative score voting platform.
 
 
 ### Coming Code Base changes
-Will be rewriting the Flutter and Astro apps with Rust toolkits, such as Dioxus or Slint.
-Rust toolkits can be a great alternative  to Flutter to create secure, lightweight and fully cross platform applications.
+Will be rewriting the Flutter and Astro apps with Rust toolkits.
+Rust toolkits can be a great alternative to Flutter. Allow you to create secure, lightweight and fully cross platform applications.
 - Fast and respnosive web builds using wasm.
 - Native and lightweight builds for desktop and mobile.
 
