@@ -25,5 +25,5 @@ Dioxus is a great alterantive to Flutter to create secure, lightweight and fully
 - The main advantage over Astro will be that I can build the apps for all platforms natively.
 
 These are the repository changes:
-- The Orginal Flutter [Inner Breeze](https://github.com/naoxio/inner_breeze) will become [InBreeze](https://github.com/naoxio/inbreeze) 
-- [Ukuvota Flutter](https://github.com/naoxio/ukuvota-flutter) and [Ukuvota Astro](https://github.com/naoxio/ukuvota-astro) will become [Ukuvota](https://github.com/naoxio/ukuvota)
+- The Orginal Flutter [/inner_breeze](https://github.com/naoxio/inner_breeze) will become [/inbreeze](https://github.com/naoxio/inbreeze) 
+- The [/ukuvota-flutter](https://github.com/naoxio/ukuvota-flutter) and [/ukuvota-astro](https://github.com/naoxio/ukuvota-astro) will become [/ukuvota](https://github.com/naoxio/ukuvota)
