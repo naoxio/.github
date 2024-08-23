@@ -1,13 +1,7 @@
-# First itteration (current)
-Get working prototypes, see what works.
-## [Inner Breeze](https://github.com/naoxio/inner_breeze)
-## [Ukuvota](https://github.com/naoxio/ukuvota)
+# Coming changes
+Will be Migrating from the flutter and astro version to use Dioxus, for a secure, efficient, lightweight and fully cross platform implementation
 
-# Second itteration (wip)
-Rework previous applications to make lightweight, efficient, decentralized tools for any platforms.
-Moving from Flutter to Rust. Will be build using [Dioxus](https://dioxuslabs.com/).
-For ukuvota I will use the astro implementaiton and slowly transition it.
+The Orginal Flutter [Inner Breeze](https://github.com/naoxio/inner_breeze) will become [InBreeze](https://github.com/naoxio/inbreeze)
+And [Ukuvote](https://github.com/naoxio/ukuvote) will slowly transition from astro to dioxus.
 
-Not yet ready. Use first itteration apps.
-## [InBreeze](https://github.com/naoxio/inbreeze)
-## [ukuvote](https://github.com/naoxio/ukuvote)
+
