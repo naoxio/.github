@@ -14,7 +14,7 @@ Guided meditation exercies.
 
 ![Ukuvota logo](https://naox.io/ukuvota-logo.png)
 
-Collaborative score voting platform
+Collaborative score voting platform.
 [ukuvota.xyz](https://ukuvota.xyz)
 
 
