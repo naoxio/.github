@@ -19,10 +19,10 @@ Collaborative score voting platform.
 
 
 ### Coming Code Base changes
-Will be rewriting the Flutter and Astro apps with Dioxus.
-Dioxus is a great alterantive to Flutter to create secure, lightweight and fully cross platform applications.
-- The main advantage to using Dioxus will be the very fast and respnosive web builds.
-- The main advantage over Astro will be that I can build the apps for all platforms natively.
+Will be rewriting the Flutter and Astro apps with Rust toolkits, such as Dioxus or Slint.
+Rust toolkits can be a great alternative  to Flutter to create secure, lightweight and fully cross platform applications.
+- Fast and respnosive web builds using wasm.
+- Native and lightweight builds for desktop and mobile.
 
 These are the repository changes:
 - The Orginal Flutter [/inner_breeze](https://github.com/naoxio/inner_breeze) will become [/inbreeze](https://github.com/naoxio/inbreeze) 
