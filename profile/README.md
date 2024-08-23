@@ -10,4 +10,4 @@ For ukuvota I will use the astro implementaiton and slowly transition it.
 
 Not yet ready. Use first itteration apps.
 ## [InBreeze](https://github.com/naoxio/inbreeze)
-## [nya](https://github.com/naoxio/nya)
+## [ukuvote](https://github.com/naoxio/ukuvote)
