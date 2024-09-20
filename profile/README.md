@@ -11,17 +11,9 @@ Guided meditation exercies.
 [inbreeze.xyz](https://inbreeze.xyz)
 
 ### Ukuvota
+Currently the active version is the flutter, however due to unsatisfactory web performance I will be rewrtting the astro version to work with [Tauri](https://tauri.app/). You may use the flutter version, your data is safe and the new version will be compatible with the old version
 
 ![Ukuvota logo](https://naox.io/ukuvota-logo.png)
 
 Collaborative score voting platform.
 [ukuvota.xyz](https://ukuvota.xyz)
-
-
-### Coming Code Base changes
-Will be rewriting the Flutter and Astro apps with Rust toolkits.
-Rust toolkits can be a great alternative to Flutter. Allow you to create secure, lightweight and fully cross platform applications.
-- Inner Breeze will be made from scratch in an appropriate library (yet to be determined) and will allow loading different practices, to becmoe the ultimate meditation and yoga app for all platforms. Progress will be recorded in the [InBreeze](https://github.com/naoxio/inbreeze). The inital [Inner Breeze](https://github.com/naoxio/inner_breeze) repo will therefore stay unaffected from this new version and will continue to serve those who prefer it.
-
-- The astro ukuvota version will be revived and slowly integrated with [Tauri](https://tauri.app/) and other rust libraries, so we can have a fast and secure web version, but also be able to create native applications. The Ukuvota flutter version will therefore become deprecated eventually.
-
