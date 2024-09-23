@@ -3,7 +3,7 @@
 Welcome to NaoX! A suite of applications to aid you with your journey!
 
 ## Applications
-### InBreeze: Inner Breeze for Inner Peace
+### Inner Breeze
 
 Guided meditation exercies.
 [inbreeze.xyz](https://inbreeze.xyz)
